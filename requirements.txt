@@ -1,0 +1,5 @@
+APScheduler==2.1.2
+feedparser
+pymongo
+requests
+vk_api
